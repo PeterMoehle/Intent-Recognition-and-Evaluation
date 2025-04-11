@@ -1,0 +1,16 @@
+=== Intent Recognition Evaluation Summary ===
+Report generated: 2025-04-11 15:40:08
+Total samples analyzed: 290
+
+--- Overall Performance ---
+Overall accuracy: 89.3%
+Total correct: 259 out of 290
+
+--- Performance by Difficulty Class ---
+Simple: 100.0% (100/100)
+Complex: 87.1% (81/93)
+Moderate: 80.4% (78/97)
+
+--- Best and Worst Performing Intents ---
+Best: change_booking_room - 100.0% accuracy
+Worst: list_bookings_for_event - 61.0% accuracy
